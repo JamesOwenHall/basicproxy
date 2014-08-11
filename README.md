@@ -1,6 +1,10 @@
 # basicproxy
 
-basicproxy is a very simple proxy server for accessing blocked websites.  It resquests only the file specified by the URL.  Therefore, HTML pages show up with broken links, images, stylesheets, etc.
+basicproxy is a very simple proxy server for accessing blocked websites.  It only requests the file specified by the URL.  Therefore, HTML pages show up with broken links, images, stylesheets, etc.
+
+## Why
+
+I'm on a 14-hour trip from Gaspé to Montreal and the bus WiFi is blocking Imgur.
 
 ## Building
 
